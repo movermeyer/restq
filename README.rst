@@ -286,7 +286,7 @@ version 0.0.1 (10/04/2013)
 .. |coverage| image:: https://coveralls.io/repos/provoke-vagueness/restq/badge.png?branch=master
    :target: https://coveralls.io/r/provoke-vagueness/restq?branch=master
    :alt: Latest PyPI version
-.. |pypi_version| image:: https://pypip.in/v/restq/badge.png
+.. |pypi_version| image:: https://img.shields.io/pypi/v/restq.svg
    :target: https://crate.io/packages/restq/
    :alt: Latest PyPI version
 .. |build_status| image:: https://secure.travis-ci.org/provoke-vagueness/restq.png?branch=master
